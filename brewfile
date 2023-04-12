@@ -8,6 +8,9 @@ cask 'slack'
 cask '1password'
 
 # dev
+brew 'zsh-syntax-highlighting'
+brew 'zsh-autosuggestions'
+brew 'autojump'
 brew 'fzf'
 brew 'gitmoji'
 tap 'homebrew/cask-versions'

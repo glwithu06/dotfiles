@@ -6,6 +6,7 @@ cask 'iterm2'
 cask 'google-chrome'
 cask 'slack'
 cask '1password'
+brew 'maccy'
 
 # dev
 brew 'zsh-syntax-highlighting'
